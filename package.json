@@ -5,7 +5,7 @@
     "lint": "node ./scripts/eslint/index.js"
   },
   "devDependencies": {
-    "eslint": "^3.10.2",
+    "eslint": "^4.1.0",
     "eslint-plugin-example-internal": "link:./scripts/eslint-rules/"
   }
 }
