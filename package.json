@@ -1,0 +1,11 @@
+{
+  "name": "test-eslint",
+  "license": "MIT",
+  "scripts": {
+    "lint": "node ./scripts/eslint/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-plugin-example-internal": "link:./scripts/eslint-rules/"
+  }
+}
